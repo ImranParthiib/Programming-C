@@ -17,7 +17,7 @@ To explore the projects and exercises in this repository, simply clone or downlo
 I'm open to feedback, suggestions, and contributions! If you have any ideas for improvement or would like to contribute to any of the projects or exercises, feel free to create a pull request or raise an issue.
 
 ## Contact
-If you have any questions, suggestions, or just want to connect, feel free to reach out to me at your-email@example.com.
+If you have any questions, suggestions, or just want to connect, feel free to reach out to me at imranparthib13@gmail.com.
 
 ## License
 This repository is licensed under the [MIT License](LICENSE).
