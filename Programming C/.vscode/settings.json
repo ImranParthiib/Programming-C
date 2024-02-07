@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "stdio.h": "c",
+    "random": "c",
+    "limits": "c",
+    "functional": "c",
+    "string.h": "c",
+    "iostream": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}

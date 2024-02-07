@@ -1,0 +1,8 @@
+TOURISM TICKET
+===============
+
+Email ID: bulbul
+Tour Code: II
+Ticket Cost: P 14000.000000
+Number of tickets: 3
+Total Cost: P 42000.000000
